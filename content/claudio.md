@@ -14,6 +14,16 @@ Tags: TCGA cancer-research statistics
 
 ## Weekly update:
 #### _TCGAnalysis Project_
+### Week 8: (5-9/Feb)
+
+### Week 7: (29/Jan-2/Feb)
+
+- Had a meet with Louis(30/Jan) so he could explain me the dgbDiff file 
+- Had a meet with Israel(1/Feb) to talk about the differential expression, he 
+  explained me his reasoning for the actual difference. Later, we started thinking 
+  about new implementations for the difference, for example: make a quotient instead 
+  of a regular substraction
+- Also Israel showed me the output of the graph of the e.coli test organism. 
 
 ### Week 6: (15-19/Jan)
 
